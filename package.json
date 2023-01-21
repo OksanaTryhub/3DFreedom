@@ -2,14 +2,14 @@
   "name": "3DFreedom",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://OksanaTryhub.github.io/3DFreedom",
+  "homepage": "https://oksanatryhub.github.io/3DFreedom/",
   "scripts": {
     "start": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /3DFreedom/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://https://github.com/OksanaTryhub/3DFreedom.git"
+    "url": "git+https://github.com/oksanatryhub/3DFreedom"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
